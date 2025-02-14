@@ -4,6 +4,6 @@ Common Lisp bindings for the Z3 SMT solver's C API
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/mister-walter/cl-z3.git |
-| commit  | 46170eb                                        |
+| commit  | d0ddebb                                        |
 | systems | cl-z3                                          |
 |---------+------------------------------------------------|
